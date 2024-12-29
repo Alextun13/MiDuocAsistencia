@@ -1,0 +1,7 @@
+{
+  "name": "MiDuocAsistencia",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

@@ -1,0 +1,27 @@
+.toolbar-header {
+  text-align: center;
+}
+
+// Foto de perfil y nombre del usuario
+.perfil{
+    margin: 5%;
+    display: flex;
+    align-items: center; 
+    gap: 20px;  
+    margin-top: 20%; 
+}
+.texto-perfil{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+// Iconos centrados (Footer)
+.icon-class-name {
+    display: flex;
+    justify-content: center; /* Centra horizontalmente los elementos */
+    align-items: center;    /* Centra verticalmente los elementos */
+    grid-gap: 25%;             /* Espacio entre los elementos */
+}
